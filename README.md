@@ -2,6 +2,8 @@
 
 Burnoutcoach.net bekeek 9.935 coachvermeldingen uit zoekresultaten van juli 2026. We namen er 1.992 op in ons overzicht. Op 6 november 2026 bekeken we alle vermeldingen op onze site opnieuw: we haalden er 118 af en er bleven er 1.874 staan.
 
+![Horizontale staafgrafiek van 9.935 coachvermeldingen uit zoekresultaten van juli 2026, nagelopen door Burnoutcoach.net op 6 november 2026. Van deze vermeldingen staan er 1.874 op Burnoutcoach.net (18,9%); 118 gingen eraf bij het nalopen (1,2%); 1.024 hebben geen eigen websitelink (10,3%); 644 hebben een doodlopende link (6,5%); 3.058 vallen buiten ons overzicht (30,8%); bij 2.927 is het praktijkadres niet bevestigd (29,4%); bij 290 bleef de site onbeslist, was die tijdelijk dicht of waren er overige redenen (2,9%).](burnoutcoach-net-onderzoek-9935-vermeldingen-2026.png)
+
 De CSV laat zien wat we bij de overige 7.943 zoekresultaten tegenkwamen, waar websitelinks ontbraken of naartoe gingen, welke doodlopende links we vonden en hoe de reviews verdeeld waren. Ook zie je hoe vaak er bij de openingstijden ‘24 uur geopend’ stond. Wie hulp zoekt, wil weten bij wie je terechtkomt. Een vermelding of sterrenscore geeft daar niet vanzelf antwoord op.
 
 ## Zo lees je de tabel
